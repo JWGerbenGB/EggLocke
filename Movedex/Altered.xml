@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movedex>
+	<bugmoveid>13</bugmoveid>
+	<bugmovepp>20</bugmovepp>
+	<darkmoveid>228</darkmoveid>
+	<darkmovepp>20</darkmovepp>
+	<dragonmoveid>239</dragonmoveid>
+	<dragonmovepp>20</dragonmovepp>
+	<electricmoveid>84</electricmoveid>
+	<electricmovepp>30</electricmovepp>
+	<fairymoveid>145</fairymoveid>
+	<fairymovepp>30</fairymovepp>
+	<fightingmoveid>249</fightingmoveid>
+	<fightingmovepp>15</fightingmovepp>
+	<firemoveid>52</firemoveid>
+	<firemovepp>25</firemovepp>
+	<flyingmoveid>64</flyingmoveid>
+	<flyingmovepp>35</flyingmovepp>
+	<ghostmoveid>310</ghostmoveid>
+	<ghostmovepp>15</ghostmovepp>
+	<grassmoveid>72</grassmoveid>
+	<grassmovepp>40</grassmovepp>
+	<groundmoveid>328</groundmoveid>
+	<groundmovepp>15</groundmovepp>
+	<icemoveid>181</icemoveid>
+	<icemovepp>25</icemovepp>
+	<normalmoveid>10</normalmoveid>
+	<normalmovepp>35</normalmovepp>
+	<poisonmoveid>123</poisonmoveid>
+	<poisonmovepp>30</poisonmovepp>
+	<psychicmoveid>93</psychicmoveid>
+	<psychicmovepp>25</psychicmovepp>
+	<rockmoveid>88</rockmoveid>
+	<rockmovepp>15</rockmovepp>
+	<steelmoveid>232</steelmoveid>
+	<steelmovepp>35</steelmovepp>
+	<watermoveid>55</watermoveid>
+	<watermovepp>25</watermovepp>
+	<typexmoveid>0</typexmoveid>
+	<typexmovepp>0</typexmovepp>
+	<standardmoveoneid>45</standardmoveoneid>
+	<standardmoveonepp>40</standardmoveonepp>
+	<standardmovetwoid>33</standardmovetwoid>
+	<standardmovetwopp>35</standardmovetwopp>
+</movedex>
