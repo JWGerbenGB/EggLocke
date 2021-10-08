@@ -12,8 +12,7 @@ I added support for:
 
 -Pokemon GS Chronicles
 
--Pokemon Unbound
 
 If you want to add your own rom hack, simply make your own XML file and place it in the Pokedex folder. 
 If you use the CFRU engine, be sure to place the (CFRU), right before .xml.
-![image](https://user-images.githubusercontent.com/58632052/130242795-3f94fcc3-7612-454d-9db9-d1bb2a26bdee.png)
+![image](https://user-images.githubusercontent.com/58632052/136632902-bf1f52cb-7f86-4326-b400-100e353bc07f.png)
