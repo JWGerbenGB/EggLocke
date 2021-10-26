@@ -1,3 +1,7 @@
+# Discord
+For support, being notified of new updates, or just hanging out and sharing run updates:  
+https://discord.gg/C4erTfdtDU
+
 # EggLocke
 A tool used to generate Egglocke save files.
 Simply load your save, change the settings to what you desire and click on "Generate Egglocke" to generate the new Egglocke save file.
