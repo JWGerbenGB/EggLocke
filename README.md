@@ -7,11 +7,14 @@ However, one needs to configure their own Pokedex and Movedex, in order to tell 
 
 I have created such Pokedexes/Movedexes for the following pokemon Rom hacks:
 
--Pokemon Emerald EX Speedchoice (Randomizeable Pokemon Emerald with all 898 pokemon)  
+-Pokemon Emerald EX Speedchoice (Pokemon Emerald with all 898 pokemon, has a compatible custom version of the Universal Pokemon Randomizer)  
 -Pokemon Last Fire Red (Hard Pokemon Firered rom hack, utilizing the CFRU Engine)  
 -Pokemon Radical Red (Hard Pokemon Firered rom hack, utilizing the CFRU Engine)  
 -Pokemon GS Chronicles (Pokemon HG/SS remake, utilizing the CFRU Engine)  
 -Pokemon Altered (Pokemon Firered rom hack, all pokemon are type-swapped)   
+-Pokemon Sors (Pokemon Firered rom hack, using all gen 1 - 7 mon, new region, using Leons base)  
+-Pokemon Firered 809 Randomizeable (Pokemon Firered rom hack, using all gen 1 - 7 mon, compatible with the Universal Pokemon Randomizer)  
+-Pokemon Inclement Emerald (Emerald Decomp Difficulty/enhancement hack, using all gen 1 - 7 mon)
 
 If you want to add your own rom hack, simply make your own XML file and place it in the Pokedex folder. 
 If you use the CFRU engine, be sure to place the (CFRU), right before .xml.
@@ -19,7 +22,9 @@ If you use the CFRU engine, be sure to place the (CFRU), right before .xml.
 
 # How do I add support for a new Gen 3 rom hack?
 First of all, you need to make an Egglocke Pokedex, this will take quite a few hours so be warned!  
-Starting off you need to create an xml document, if the game you want to add an egglocke to is a game utilizing the CFRU engine, then you need to name your xml file something ending in (CFRU).xml, or else corrupted saves will be created later on.  
+Starting off you need to create an xml document.  
+If the game you want to add an egglocke to is a game utilizing the CFRU engine, then you need to name your xml file something ending in (CFRU).xml, or else corrupted saves will be created later on.  
+If the game you want to add an egglocke to is a game utilizing LEON's base, then you need to name your xml file something ending in (LEON).xml, or else corrupted saves will be created later on.  
 
 The first line in your xml document should be: &lt;?xml version="1.0" encoding="UTF-8"?>  
 The second line in your xml document should be: &lt;pokedex>  
