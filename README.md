@@ -7,17 +7,19 @@ However, one needs to configure their own Pokedex and Movedex, in order to tell 
 
 I have created such Pokedexes/Movedexes for the following pokemon Rom hacks:
 
--Pokemon Emerald EX Speedchoice (Pokemon Emerald with all 898 pokemon, has a compatible custom version of the Universal Pokemon Randomizer)  
+-Pokemon Emerald EX Speedchoice (Pokemon Emerald with all 898 pokemon, is randomizeable with a custom version of the UPR)  
 -Pokemon Last Fire Red (Hard Pokemon Firered rom hack, utilizing the CFRU Engine)  
 -Pokemon Radical Red (Hard Pokemon Firered rom hack, utilizing the CFRU Engine)  
 -Pokemon GS Chronicles (Pokemon HG/SS remake, utilizing the CFRU Engine)  
 -Pokemon Altered (Pokemon Firered rom hack, all pokemon are type-swapped)   
 -Pokemon Sors (Pokemon Firered rom hack, using all gen 1 - 7 mon, new region, using Leons base)  
--Pokemon Firered 809 Randomizeable (Pokemon Firered rom hack, using all gen 1 - 7 mon, compatible with the Universal Pokemon Randomizer)  
--Pokemon Inclement Emerald (Emerald Decomp Difficulty/enhancement hack, using all gen 1 - 7 mon)
+-Pokemon Firered 809 Randomizeable (Pokemon Firered rom hack, using all gen 1 - 7 mon, using Leons base, UPR compatible)  
+-Pokemon Inclement Emerald (Emerald Decomp Difficulty/enhancement hack, using all gen 1 - 7 mon)  
+Note: For those who don't know, UPR stands for Universal Pokemon Randomizer.
 
 If you want to add your own rom hack, simply make your own XML file and place it in the Pokedex folder. 
 If you use the CFRU engine, be sure to place the (CFRU), right before .xml.
+If you use LEON's base, be sure to place the (LEON), right before .xml.
 ![image](https://user-images.githubusercontent.com/58632052/136632902-bf1f52cb-7f86-4326-b400-100e353bc07f.png)
 
 # How do I add support for a new Gen 3 rom hack?
